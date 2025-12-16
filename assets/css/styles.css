@@ -1577,7 +1577,7 @@ summary::-webkit-details-marker {
   width: 928px;
   height: 732px;
   content: "";
-  background-image: url("../../assets/img/sections/background/back-intro.webp");
+  background-image: url("../../assets/img/sections/background/back-intro.svg");
   background-repeat: no-repeat;
   border-radius: 40px;
 }
@@ -1978,7 +1978,7 @@ summary::-webkit-details-marker {
   height: 100%;
   left: 0;
   top: 0;
-  background-image: url("../../assets/img/sections/background/back-services-1.webp");
+  background-image: url("../../assets/img/sections/background/back-services-1.svg");
   background-position: left top;
   background-repeat: no-repeat;
 }
@@ -1989,7 +1989,7 @@ summary::-webkit-details-marker {
   height: 100%;
   left: 0;
   top: 0;
-  background-image: url("../../assets/img/sections/background/back-services-2.webp");
+  background-image: url("../../assets/img/sections/background/back-services-2.svg");
   background-position: right top;
   background-repeat: no-repeat;
 }
@@ -2301,7 +2301,7 @@ summary::-webkit-details-marker {
   height: 100%;
   left: 0;
   top: 0;
-  background-image: url("../../assets/img/sections/background/back-calc.webp");
+  background-image: url("../../assets/img/sections/background/back-calc.svg");
   background-position: left top;
   background-repeat: no-repeat;
   background-size: auto 101%;
@@ -2722,13 +2722,13 @@ summary::-webkit-details-marker {
   padding: 62px 0 62px 0;
 }
 .banner-consultation::before {
-  content: url("../../assets/img/sections/background/back-services-2.webp");
+  content: url("../../assets/img/sections/background/back-services-2.svg");
   position: absolute;
   right: 0;
   top: -72%;
 }
 .banner-consultation::after {
-  content: url("../../assets/img/sections/background/back-services-1.webp");
+  content: url("../../assets/img/sections/background/back-services-1.svg");
   position: absolute;
   left: -10%;
   top: -27%;
@@ -3723,13 +3723,13 @@ summary::-webkit-details-marker {
   padding: 120px 0;
 }
 .reviews::before {
-  content: url("../../assets/img/sections/background/back-reviews-2.webp");
+  content: url("../../assets/img/sections/background/back-reviews-2.svg");
   position: absolute;
   right: 0;
   top: 0;
 }
 .reviews::after {
-  content: url("../../assets/img/sections/background/back-reviews-1.webp");
+  content: url("../../assets/img/sections/background/back-reviews-1.svg");
   position: absolute;
   left: 0;
   bottom: -5px;
